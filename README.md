@@ -1,15 +1,15 @@
 # Hello World!, I'm Ruwan Jayawardena 👋🏼
 
 🌐 Winnipeg, MB, Canada | 📧 ruwan.wpg@gmail.com | 📱 (204) 698-2043
-[LinkedIn](your-linkedin-link) | [GitHub](your-github-link) | [Freelancer Profile](your-freelancer-link)
+[LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
 
 ## 👨‍💻 About Me
-Full Stack Developer with 12+ years of international experience and 3+ years in the Canadian tech ecosystem. I specialize in creating scalable, secure, and user-focused web applications across diverse industries.
+Full Stack Developer with 12+ years of industry experience, including 3+ years in the Canadian tech ecosystem and 5+ years of remote international, government, and corporate client work. I specialize in creating scalable, secure, and user-focused web applications across diverse industries.
 
 🚀 Currently working at BotCircuits as a Senior Full Stack Developer<br>
-🎓 Bachelor of Information Technology from University of Colombo<br>
-💼 Passionate about solving complex technical challenges<br>
-🌍 Permanent Resident in Canada
+🎓 Bachelor of Information Technology from the University of Colombo<br>
+💼 Passionate about solving complex technical challenges and bug fixing<br>
+🇨🇦 Permanent Resident in Canada
 
 ## 💻 Tech Stack
 
@@ -38,27 +38,34 @@ Full Stack Developer with 12+ years of international experience and 3+ years in 
 
 ## 🏆 Professional Highlights
 
-- 🚀 Developed a fully automated logistics notification platform handling 3,000+ daily alerts
-- 💡 Optimized AWS Lambda functions for 100% system uptime
-- 🤝 Consistently maintained a 4.8/5.0 rating on Freelancer.com
-- 🏢 Worked with diverse industries: retail, education, finance, healthcare, e-commerce
+- 🚀 Developed a fully automated Supply Chain, Warehouse, and E-commerce Order Management system through Shopify Storefront API, handling 4,000+ daily SMS and email notifications with system updates.
+- 🚀 Created a fully automated Driver Hiring platform that sends offer letters, training materials, and manages HR and driver communications 100% automatically via PandaDoc.
+- 💡 Optimized AWS Lambda functions for 100% system uptime and error-free performance.
+- 🤝 Consistently maintained a 4.8/5.0 client satisfaction rating on Freelancer.com.
+- 🏢 Worked across diverse industries: retail, education, finance, healthcare, e-commerce, and government sectors.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruwanjayawardena&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
-- Advanced serverless architectures
-- Machine learning integration with web applications
-- Generative AI technologies
+- Advanced Serverless Architectures
+- Cloud Automation with GitHub Actions CI/CD
+  - Pulumi (Infrastructure as Code)
+  - AWS CDK
+  - Fargate, ECS, ECR
+  - EC2 and Load Balancing
+- Generative AI Technologies
+- CleanTech Industry Transformation
+- Advanced NextJS and NodeJS Techniques
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: ruwan.wpg@gmail.com
-- Portfolio: [Your Personal Website]
+- 💼 LinkedIn: [Ruwan Jayawardena](https://www.linkedin.com/in/ruwanjayawardena)
+- 📧 Email: ruwan.wpg@gmail.com
+- 🌐 Portfolio: [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
 
 ---
 
-⭐️ From [Ruwan Jayawardena](https://github.com/yourusername)
+⭐️ From [Ruwan Jayawardena](https://github.com/ruwanjayawardena)
