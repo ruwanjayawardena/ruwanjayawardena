@@ -1,6 +1,6 @@
 # Hello World!, I'm Ruwan Jayawardena 👋🏼
 
-🌐 Winnipeg, MB, Canada | 📧 ruwan.wpg@gmail.com |
+🌐 Winnipeg, MB, Canada |
 [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
 
 ## 👨‍💻 About Me
@@ -116,7 +116,6 @@ Full Stack Developer with 12+ years of industry experience, including 3+ years i
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [Ruwan Jayawardena](https://www.linkedin.com/in/ruwanjayawardena)
-- 📧 Email: ruwan.wpg@gmail.com
 - 🌐 Portfolio: [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
 
 ---
