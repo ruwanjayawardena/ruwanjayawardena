@@ -1,4 +1,4 @@
-# Hello World!, I'm Ruwan Jayawardena 👋🏼
+# Hello World!..., I'm Ruwan Jayawardena 👋🏼
 
 🌐 Winnipeg, MB, Canada |
 [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
@@ -6,9 +6,9 @@
 ## 👨‍💻 About Me
 Full Stack Developer with 12+ years of industry experience, including 3+ years in the Canadian tech ecosystem and 5+ years of remote international, government, and corporate client work. I specialize in creating scalable, secure, and user-focused web applications across diverse industries.
 
-🚀 Currently working at BotCircuits as a Senior Full Stack Developer<br>
+🚀 Freelance Full Stack Developer<br>
 🎓 Bachelor of Information Technology from the University of Colombo<br>
-💼 Passionate about solving complex technical challenges and bug fixing<br>
+💼 Passionate about solving complex technical challenges, automation, integration, data processing, and bug fixing<br>
 🇨🇦 Permanent Resident in Canada
 
 ## 🛠️ Skills Breakdown
