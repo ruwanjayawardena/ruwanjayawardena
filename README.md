@@ -1,6 +1,6 @@
 # Hello World!, I'm Ruwan Jayawardena 👋🏼
 
-🌐 Winnipeg, MB, Canada | 📧 ruwan.wpg@gmail.com | 📱 (204) 698-2043
+🌐 Winnipeg, MB, Canada | 📧 ruwan.wpg@gmail.com |
 [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
 
 ## 👨‍💻 About Me
