@@ -1,4 +1,4 @@
-# Hello World!..., I'm Ruwan Jayawardena 👋🏼
+# Hi!..., I'm Ruwan Jayawardena 👋🏼
 
 🌐 Winnipeg, MB, Canada |
 [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
