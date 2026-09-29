@@ -1,123 +1,78 @@
-# Hi!..., I'm Ruwan Jayawardena 👋🏼
+# Hi, I'm Ruwan Jayawardena 👋
 
-🌐 Winnipeg, MB, Canada |
-[LinkedIn](https://www.linkedin.com/in/ruwanjayawardena) | [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
+**Senior Software Engineer | Full-Stack & AWS Cloud Architecture | DevOps, IoT & Edge Systems**
 
-## 👨‍💻 About Me
-Full Stack Developer with 12+ years of industry experience, including 3+ years in the Canadian tech ecosystem and 5+ years of remote international, government, and corporate client work. I specialize in creating scalable, secure, and user-focused web applications across diverse industries.
+📍 Winnipeg, Manitoba, Canada · [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena/) · [Freelancer](https://www.freelancer.com/u/ruwanjayawardena)
 
-🚀 Freelance Full Stack Developer<br>
-🎓 Bachelor of Information Technology from the University of Colombo<br>
-💼 Passionate about solving complex technical challenges, automation, integration, data processing, and bug fixing<br>
-🇨🇦 Permanent Resident in Canada
+I build and operate web applications, cloud infrastructure, and connected-device systems. With 15+ years in software development, I work across architecture, implementation, deployment, and production support. My core stack includes TypeScript, Node.js, React, Vue, PostgreSQL, and AWS.
 
-## 🛠️ Skills Breakdown
+## What I work on
 
-### 📝 Languages & Frameworks
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- **Cloud platforms:** Design and maintain AWS infrastructure with CDK v2, ECS Fargate, ECR, Application Load Balancers, Lambda, API Gateway, CloudFront, WAF, and CloudWatch.
+- **Scalability and cost:** Configure traffic and CPU-based service scaling, Aurora Serverless v2 capacity, caching, monitoring, and resource allocation.
+- **Full-stack applications:** Build APIs, integrations, admin tools, and user interfaces with Node.js, TypeScript, React, Next.js, Vue, and PHP.
+- **IoT and edge systems:** Work with Raspberry Pi applications, local services, device-to-cloud synchronization, remote access, and PostgreSQL-backed device workflows.
+- **Production delivery:** Containerize services, automate deployments, troubleshoot incidents, and modernize legacy applications and databases.
 
-### 🔄 State Management
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Context](https://img.shields.io/badge/React%20Context-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+## 🛠️ Tech stack
 
-### 🎨 UI/UX & Styling
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+### Languages and backend
 
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend and UI
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### AWS and cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Aurora](https://img.shields.io/badge/Aurora_Serverless_v2-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### Databases, DevOps and edge
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-### 🔐 Authentication
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
+## Selected work
 
-### ☁️ Cloud & AWS Services
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- Built a multi-environment AWS platform for containerized services, serverless APIs, databases, networking, security, monitoring, and automated deployments.
+- Improved cloud cost efficiency through ECS resource sizing, autoscaling, Aurora Serverless v2 capacity settings, and CloudFront caching.
+- Developed and supported Raspberry Pi products that synchronize local device data with cloud services.
+- Built Shopify-based commerce, warehouse, and order-management integrations, including automated customer communications.
+- Delivered freelance application development, integrations, migrations, and modernization projects for international clients; maintained a **4.8/5** client rating.
 
-### 🛠️ Development Practices
-![Agile](https://img.shields.io/badge/Agile-007ACC?style=for-the-badge&logo=jira&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=github-actions&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=api&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=docker&logoColor=white)
+## Connect
 
-### 🧰 Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🔗 API & Webhook Integrations
-![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-
-### 📊 SEO & Analytics
-![Google Analytics](https://img.shields.io/badge/google%20analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white)
-
-### 🤖 Generative AI Tools
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-## 🏆 Professional Highlights
-
-- 🚀 Developed a fully automated Supply Chain, Warehouse, and E-commerce Order Management system through Shopify Storefront API, handling 4,000+ daily SMS and email notifications with system updates.
-- 🚀 Created a fully automated Driver Hiring platform that sends offer letters, training materials, and manages HR and driver communications 100% automatically via PandaDoc.
-- 💡 Optimized AWS Lambda functions for 100% system uptime and error-free performance.
-- 🤝 Consistently maintained a 4.8/5.0 client satisfaction rating on Freelancer.com.
-- 🏢 Worked across diverse industries: retail, education, finance, healthcare, e-commerce, and government sectors.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruwanjayawardena&show_icons=true&theme=radical)
-
-## 🌱 Currently Learning
-
-- Advanced Serverless Architectures
-- Cloud Automation with GitHub Actions CI/CD
-  - Pulumi (Infrastructure as Code)
-  - AWS CDK
-  - Fargate, ECS, ECR
-  - EC2 and Load Balancing
-- Generative AI Technologies
-- CleanTech Industry Transformation
-- Advanced NextJS and NodeJS Techniques
-
-## 📫 How to Reach Me
-
-- 💼 LinkedIn: [Ruwan Jayawardena](https://www.linkedin.com/in/ruwanjayawardena)
-- 🌐 Portfolio: [Freelancer Profile](https://www.freelancer.com/u/ruwanjayawardena)
-
----
-
-⭐️ From [Ruwan Jayawardena](https://github.com/ruwanjayawardena)
+- [LinkedIn](https://www.linkedin.com/in/ruwanjayawardena/)
+- [Freelancer profile](https://www.freelancer.com/u/ruwanjayawardena)
